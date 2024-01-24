@@ -1,4 +1,4 @@
 def print_members():
-  member_names = ["a", "b", "c", "d"]
+  member_names = ["Matthew Olszewski", "Holly Wirsing", "Pranav Vuppu", "Nikil Prabhakar"]
   for n in member_names:
       print(n)
