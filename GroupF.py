@@ -1,4 +1,4 @@
-def print_members(Kathleen Schmidt, Amogh Cuppa, Rishabh Mehta, Aidan Cook):
-  member_names = ["a", "b", "c", "d"]
+def print_members():
+  member_names = ["Kathleen Schmidt", "Amogh Cuppa", "Rishabh Mehta", "Aidan Cook"]
   for n in member_names:
       print(n)
