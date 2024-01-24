@@ -1,4 +1,5 @@
 def print_members():
-  member_names = ["a", "b", "c", "d"]
+  member_names = ["Ryan", "Vihaan", "Aidan", "Samara"]
   for n in member_names:
       print(n)
+  print("Hi")
