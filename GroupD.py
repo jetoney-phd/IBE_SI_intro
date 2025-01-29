@@ -3,3 +3,6 @@ def print_members():
   for n in member_names:
       print(n)
   print("Hello")
+
+if __name__ == "__main__":
+  print_members()
