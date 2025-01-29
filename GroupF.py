@@ -3,3 +3,7 @@ def print_members():
   for n in member_names:
       print(n)
   print("This is the best project") 
+
+if __name__ == "__main__":
+  print_members()
+
