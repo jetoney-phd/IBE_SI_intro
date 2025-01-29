@@ -4,3 +4,6 @@ def print_members():
       print(n)
 
 print("This group is the best!")
+
+if __name__ == "__main__":
+  print_members()
