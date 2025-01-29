@@ -1,5 +1,5 @@
 def print_teaching_team():
-  teaching_team = []
+  teaching_team = ["Jim", "Roger"]
 
   for n in teaching_team:
     print(n)
