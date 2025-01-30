@@ -1,5 +1,8 @@
 def print_members():
   member_names = ["Ryan", "Vihaan", "Aidan", "Samara"]
+  
+  print("Group A Members:")
+  
   for n in member_names:
       print(n)
   print("Hi")
