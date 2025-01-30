@@ -3,7 +3,7 @@ def print_teaching_team():
 
   for n in teaching_team:
     print(n)
-  print("")
+  print(" ")
     
 if __name__ == "__main__":
   print_teaching_team()
