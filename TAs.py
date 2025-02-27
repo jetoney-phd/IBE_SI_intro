@@ -1,9 +1,10 @@
 def print_teaching_team():
-  teaching_team = ["Jim", "Roger", "Carter"]
+  teaching_team = ["Jim", "Roger", "Carter", "Aidan", "Madison"]
+  
 
   for n in teaching_team:
     print(n)
-  print(" ")
+  print("This class rocks!")
     
 if __name__ == "__main__":
   print_teaching_team()
